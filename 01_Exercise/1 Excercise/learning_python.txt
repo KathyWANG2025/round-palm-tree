@@ -1,0 +1,4 @@
+In Python you can write functions
+In Python you can read files
+In Python you can handle massive repeated tasks
+In Python you can code

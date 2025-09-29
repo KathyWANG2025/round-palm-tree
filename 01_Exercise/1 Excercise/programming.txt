@@ -1,0 +1,3 @@
+Python is a programming language
+This language is somewhat easy
+Python is not erased
